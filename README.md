@@ -1,3 +1,5 @@
+  ![Junika-logo2](https://github.com/miladkardgar/miladkardgar/assets/11207996/ee34902a-f19f-4fda-8141-0ea3ae4548bd)
+
 - 👋 Hi, I’m @miladkardgar
 - 👀 I am a programmer,developer and linux enthusiast,
   - 💞️ I love to read Every programming and Linux  blog on the internet. I hold bachelor's degree in software and am passionate about learning.
